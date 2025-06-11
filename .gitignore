@@ -20,10 +20,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Images and icons (if not needed in repo)
-assets/images/
-assets/icons/
-
 # Temporary files
 *.tmp
 *.bak
